@@ -1,0 +1,56 @@
+.freegames {
+    background: #2a2a2a;
+    padding: 2em 3em;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 20px;
+}
+
+.flexheader {
+    align-items: center;
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    margin-bottom: 1.5em;
+    padding-bottom: 20px;
+    padding-right: 50px;
+}
+
+.freegames svg {
+    filter: invert(0%);
+    transform: scale(1.7);
+    width: 2rem;
+    margin-right: 30px;
+}
+
+.game {
+    text-decoration: none;
+    line-height: 20px;
+}
+
+.freegames .gameimg {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    width: 20%;
+}
+
+.gameimg img {
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+    transition: transform 0.2s; /* Thêm hiệu ứng chuyển đổi */
+}
+
+.freegames :is(h1, h4) {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-weight: normal;
+}
+
+.flextext {
+    margin-top: 1em;
+}

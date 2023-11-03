@@ -1,0 +1,279 @@
+{
+    "game":[
+            {
+            "game_id": 1,
+            "game_title": "Return to Moria",
+            "release_date": "24/10/2023",
+            "developer": "Free Range Games",
+            "publisher": "North Beach Games",
+            "genres": ["chế tạo", "sinh tồn"],
+            "platforms": ["PC", "Xbox", "PlayStation"],
+            "description": "The Lord of the Rings: Return to Moria is a 2023 survival-crafting video game developed by Free Range Games and published by North Beach Games on October 24, 2023. It is based on the fictional world of Middle-earth created by J. R. R. Tolkien and takes place during its Fourth Age after the events of the The Lord of the Rings novels. It follows a company of dwarves as they try to retake their homeland Moria and restore the long-lost ancient kingdom of Khazad-dûm.",
+            "images": [
+                {
+                "image_id": 1,
+                "url": "https://cdn1.epicgames.com/spt-assets/2ae760629a384d5199cbefc612db7ac8/the-lord-of-the-rings-return-to-moria-rxsxh.jpg?h=270&quality=medium&resize=1&w=480",
+                "caption": "return to Moria"
+                }
+            ]
+            },
+            {
+            "game_id": 2,
+            "game_title": "Lords of the Fallen",
+            "release_date": "10/2014",
+            "developer": "Deck13 và CI Games",
+            "publisher": "Deck13 và CI Games",
+            "genres": ["nhập vai", "hành động"],
+            "platforms": ["PC", "PlayStation", "Xbox"],
+            "description": "Lords of the Fallen is an action role-playing video game developed by Deck13 and CI Games. It was released in October 2014 for PlayStation 4, Xbox One, and Windows.[3] A mobile version of the game, which features one-to-one swipe combat controls, was released on 9 February 2017 for iOS and Android, as a paid game with in-app purchases.[4] A sequel of the same name was released in October 2023.",
+            "images": [
+                {
+                "image_id": 2,
+                "url": "https://images2.thanhnien.vn/528068263637045248/2023/8/26/egslordsofthefallenhexworkss1-1693069478945569827463.jpg",
+                "caption": "Lord of the Fallen"
+                }
+            ]
+            },
+            {
+            "game_id": 3,
+            "game_title": "Hot Wheels Unleashed™ 2",
+            "release_date": "10/2023",
+            "developer": "Milestone",
+            "publisher": "Milestone",
+            "genres": ["racing"],
+            "platforms": ["PC", "Xbox", "Nintendo Switch", "PlayStation"],
+            "description": "Hot Wheels Unleashed 2: Turbocharged is a racing video game developed and published by Milestone. A sequel to Hot Wheels Unleashed (2021), the game was released in October 2023 for Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X and Series S.",
+            "images": [
+                {
+                "image_id": 3,
+                "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Hot_Wheels_Unleashed_2_Turbocharged_cover_art.jpg",
+                "caption": "Hot Wheels Unleashed™ 2"
+                }
+            ]
+            },
+            {
+                "game_id": 4,
+                "game_title": "Alan Wake 2",
+                "release_date": "27/10/2023",
+                "developer": "Remedy Entertainment",
+                "publisher": "Epic Games Publishing",
+                "genres": ["kinh dị"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Alan Wake II is a 2023 survival horror game developed by Remedy Entertainment and published by Epic Games Publishing. A sequel to Alan Wake, the story follows best-selling horror novelist Alan Wake, who has been trapped in an alternative dimension for 13 years, as he attempts to escape by writing a horror story involving an FBI agent named Saga Anderson. The game was released for PlayStation 5, Windows, and Xbox Series X/S on 27 October 2023. It received generally positive reviews from critics.",
+                "images": [
+                    {
+                    "image_id": 4,
+                    "url": "https://pbs.twimg.com/media/F4I7W-abEAEzNOc.jpg:large",
+                    "caption": "Alan Wake 2"
+                    }
+                ]
+            },
+            {
+                "game_id": 5,
+                "game_title": "Ghostrunner 2",
+                "release_date": "26/10/2023",
+                "developer": "One More Level",
+                "publisher": "505 Games",
+                "genres": ["phiêu lưu", "đối kháng"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Ghostrunner 2 is an action video game developed by One More Level and published by 505 Games. A sequel to Ghostrunner (2020), the game was released for PlayStation 5, Windows, and Xbox Series X/S on 26 October 2023. Upon release, it received positive reviews from critics.",
+                "images": [
+                    {
+                    "image_id": 5,
+                    "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Ghostrunner_2_cover_art.jpg",
+                    "caption": "Ghostrunner 2"
+                    }
+                ]
+            },
+            {
+                "game_id": 6,
+                "game_title": "Dead Island 2",
+                "release_date": "21/4/2023",
+                "developer": "Dambuster Studios",
+                "publisher": "Deep Silver",
+                "genres": ["nhập vai", "hành động"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Dead Island 2 is a 2023 action role-playing game developed by Dambuster Studios and published by Deep Silver. It is a sequel to the 2011 video game Dead Island and the third major installment in the Dead Island series. Set about 15 years after the events of Dead Island and Dead Island: Riptide, Dead Island 2 differentiates itself from its predecessors by taking place in the city of Los Angeles, which has been quarantined due to a zombie outbreak.",
+                "images": [
+                    {
+                    "image_id": 6,
+                    "url": "https://bggamingzone.com/wp-content/uploads/2023/04/EGS_DeadIsland2_DeepSilverDambusterStudios_S1_2560x1440-fdc688ce46680914ee3c4a7949ce8a67.jpg",
+                    "caption": "Dead Island 2"
+                    }
+                ]
+            },
+            {
+                "game_id": 7,
+                "game_title": "Remnant 2",
+                "release_date": "25/7/2023",
+                "developer": "Gunfire Games",
+                "publisher": "Gearbox Publishing",
+                "genres": ["nhập vai", "hành động"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Remnant 2 is a third-person shooter action role-playing video game developed by Gunfire Games and published by Gearbox Publishing. A sequel to Remnant: From the Ashes, the game was released for PlayStation 5, Windows and Xbox Series X/S in July 2023. It received generally positive reviews from critics and sold over 1 million units during its first week after launch.",
+                "images": [
+                    {
+                    "image_id": 7,
+                    "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1282100/capsule_616x353.jpg?t=1691690139",
+                    "caption": "Remmant 2"
+                    }
+                ]
+            },
+            {
+                "game_id": 8,
+                "game_title": "The Last of Us™ Part I",
+                "release_date": "2013",
+                "developer": "Naughty Dog",
+                "publisher": "Sony Interactive Entertainment.",
+                "genres": ["phiêu lưu", "hành động"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "The Last of Us Part I is a 2022 action-adventure game developed by Naughty Dog and published by Sony Interactive Entertainment. A remake of the 2013 game The Last of Us, it features revised gameplay, including enhanced combat and exploration, and expanded accessibility options.",
+                "images": [
+                    {
+                    "image_id": 8,
+                    "url": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Last_of_Us_Part_I_cover.jpg",
+                    "caption": "The Last of Us™ Part I"
+                    }
+                ]
+            },
+            {
+                "game_id": 9,
+                "game_title": "Dead by Daylight",
+                "release_date": "14/6/2016",
+                "developer": "Behaviour Interactive",
+                "publisher": "Behaviour Interactive, Starbreeze Studios, 505 Games, Deep Silver",
+                "genres": ["kinh dị", "sinh tồn"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Dead by Daylight is an online asymmetric multiplayer survival horror game developed by Canadian studio Behaviour Interactive. It is a one-versus-four game in which one player takes on the role of a Killer[a] and the other four play as Survivors; the Killer must impale each Survivor on sacrificial hooks to appease a malevolent force known as the Entity, while the Survivors have to avoid being caught and power up the exit gates by working together to fix five generators.",
+                "images": [
+                    {
+                    "image_id": 9,
+                    "url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/Site-community-image/revision/latest?cb=20220322105615",
+                    "caption": "Dead by Daylight"
+                    }
+                ]
+            },
+            {
+                "game_id": 10,
+                "game_title": "Dying Light 2 Stay Human",
+                "release_date": "4/2/2022",
+                "developer": "Techland",
+                "publisher": "Techland",
+                "genres": ["nhập vai", "hành động"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Dying Light 2 Stay Human is a 2022 action role-playing game developed and published by Techland. The game is a sequel to Dying Light, and was released for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S on 4 February 2022. A Nintendo Switch cloud version is in development. It received generally favorable reviews, with praise directed at the combat, parkour system, and open world, but criticism for the story. It sold 5 million units in its first month of release.",
+                "images": [
+                    {
+                    "image_id": 10,
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DyingLight2StayHuman_Techland_S4_1200x1600-b3d66b4576fd6488b674710e13493435",
+                    "caption": "Dying Light 2 Stay Human"
+                    }
+                ]
+            },
+            {
+                "game_id": 11,
+                "game_title": "Tiny Tina's Wonderlands",
+                "release_date": "24/3/2022",
+                "developer": "Gearbox Software",
+                "publisher": "2K",
+                "genres": ["bắn súng"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Tiny Tina's Wonderlands is an action role-playing first-person shooter video game developed by Gearbox Software and published by 2K. As a spin-off in the Borderlands series and a sequel to Tiny Tina's Assault on Dragon Keep, the game is set within the world of a fantasy-themed tabletop role-playing game. The game was released for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S in March 2022.",
+                "images": [
+                    {
+                    "image_id": 11,
+                    "url": "https://cdn1.epicgames.com/offer/c37115918ccc4969a57b6b1bdc28af4a/TTWL_ChaoticTall_1200x1600-0e2c252dca04ffb429b2891a95c5cea2",
+                    "caption": "Tiny Tina's Wonderlands"
+                    }
+                ]
+            },
+            {
+                "game_id": 12,
+                "game_title": "Eternights",
+                "release_date": "12/9/2023",
+                "developer": "Studio Sai",
+                "publisher": "Studio Sai",
+                "genres": ["nhập vai", "hành động"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Eternights is a dating sim action role-playing game developed and published by Studio Sai. The game was released digitally for PlayStation 4, PlayStation 5, and Windows on 12 September 2023. It is also scheduled to release physically for PlayStation 4 and PlayStation 5 on 16 November 2023.[1][2] It received positive to mixed reviews from critics.",
+                "images": [
+                    {
+                    "image_id": 12,
+                    "url": "https://cdn1.epicgames.com/spt-assets/63c94a59a4b84942a5ea12a818ad13d0/eternights-offer-picpb.jpg",
+                    "caption": "Eternights"
+                    }
+                ]
+            },
+            {
+                "game_id": 13,
+                "game_title": "Tandem: A Tale of Shadows",
+                "release_date": "25/9/2021",
+                "developer": "Monochrome Paris, Monochrome",
+                "publisher": "Hatinh Interactive, Funstock Distribution Limited",
+                "genres": ["giải đố"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "Tandem: A Tale of Shadows is a 2021 puzzle platformer video game developed by Monochrome Paris and published by Hatinh Interactive for Nintendo Switch, PlayStation 4 and Microsoft Windows.[1] The game follows the story of a 10-year old girl named Emma and a mysterious teddy bear named Fenton, as they embark on a journey to solve the mystery of the disappearance of Thomas Kane, the son of a famous magician.",
+                "images": [
+                    {
+                    "image_id": 13,
+                    "url": "https://cdn.akamai.steamstatic.com/steam/apps/1436920/header.jpg?t=1678827735",
+                    "caption": "Tandem: A Tale of Shadows"
+                    }
+                ]
+            },
+            {
+                "game_id": 14,
+                "game_title": "The Evil Within 2",
+                "release_date": "13/10/2017",
+                "developer": "Tango Gameworks",
+                "publisher": "Bethesda Softworks",
+                "genres": ["kinh dị", "sinh tồn"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "The Evil Within 2 is a survival horror video game developed by Tango Gameworks and published by Bethesda Softworks for PlayStation 4, Windows, and Xbox One. It was released worldwide in October 2017 and is the sequel to 2014's The Evil Within.",
+                "images": [
+                    {
+                    "image_id": 14,
+                    "url": "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Evil_Within_2_cover_art.jpg",
+                    "caption": "The Evil Within 2"
+                    }
+                ]
+            },
+            {
+                "game_id": 15,
+                "game_title": "F.I.S.T.: Forged In Shadow Torch",
+                "release_date": "7/9/2021",
+                "developer": "TiGames",
+                "publisher": "Bilibili",
+                "genres": ["hành động"],
+                "platforms": ["PC", "Xbox", "PlayStation"],
+                "description": "F.I.S.T.: Forged In Shadow Torch is a 2021 metroidvania video game developed by TiGames and published by Bilibili. It was released on PlayStation 4 and PlayStation 5 on September 7, 2021, followed by a Windows port on October 3, 2021.",
+                "images": [
+                    {
+                    "image_id": 15,
+                    "url": "https://cdn.akamai.steamstatic.com/steam/apps/1330470/capsule_616x353.jpg?t=1695348154",
+                    "caption": "F.I.S.T.: Forged In Shadow Torch"
+                    }
+                ]
+            },
+            {
+                "game_id": 16,
+                "game_title": "Turnip Boy Commits Tax Evasion",
+                "release_date": "7/10/2020",
+                "developer": "Snoozy Kazoo",
+                "publisher": "Graffiti Games",
+                "genres": ["hành động", "phiêu lưu"],
+                "platforms": ["PC", "Xbox", "PlayStation", "Nintendo Switch"],
+                "description": "Turnip Boy Commits Tax Evasion is a 2021 action-adventure video game developed by Snoozy Kazoo and published by Graffiti Games. It was released for Linux, macOS, Windows, and Nintendo Switch in April 2021.",
+                "images": [
+                    {
+                    "image_id": 16,
+                    "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1205450/capsule_616x353.jpg?t=1696952731",
+                    "caption": "Turnip Boy Commits Tax Evasion"
+                    }
+                ]
+            }
+        ],
+        "Cart": [
+            
+        ]
+    } 

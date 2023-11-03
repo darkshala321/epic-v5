@@ -1,0 +1,152 @@
+.checkout-container {
+    display: flex;
+    padding: 100px;
+    background-color: white;
+}
+
+.payment-form {
+    background-color: #f2f2f2;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.h1-checkout {
+    display: flex;
+    justify-content: space-between;
+}
+
+.payment-tab-credit.active, .payment-tab-paypal.active {
+    border: 1px solid blue;
+    color: blue;
+    border-bottom: none;
+  }
+
+  .payment-tab-credit.active + .payment-form {
+    border: 1px solid blue;
+    border-top: none;
+  }
+
+  .payment-tab-paypal.active + .payment-form {
+    border: 1px solid blue;
+    border-top: none;
+  }
+
+
+.exp {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.tos {
+    padding-top: 10px;
+}
+
+.payment-tab-credit {
+    display: flex;
+    gap: 5px;
+    padding-bottom: 10px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.payment-tab-paypal {
+    display: flex;
+    gap: 5px;
+    padding-bottom: 10px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+
+fieldset {
+    border: none;
+    margin-top: 10px;
+}
+
+.yes,
+.no,
+.yes-no {
+    display: flex;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+.yes-no p {
+    color: black;
+}
+
+.payment-note {
+    justify-items: center;
+    margin-top: 10px;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+.payment-note a {
+    color: blue;
+    margin: 5px;
+}
+
+.card-detail-des {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tos {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.checkout-column {
+    flex: 1;
+    /* Chia tỷ lệ cân đối chiều rộng giữa các cột */
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    /* Để tạo khoảng cách giữa các cột */
+}
+
+.game-info-checkout {
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+    flex: 0.2;
+    /* Chia tỷ lệ cân đối chiều rộng với các cột khác */
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.game-image img {
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.payment-price-checkout {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.payment-price-checkout p {
+    color: black;
+    font-weight: bold;
+}
+
+.tos span {
+    line-height: 1.2;
+}
+
+.tos-button {
+    padding-bottom: 20px;
+}
